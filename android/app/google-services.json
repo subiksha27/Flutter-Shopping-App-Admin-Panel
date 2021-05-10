@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522258229650",
+    "firebase_url": "https://kioxlogin1-default-rtdb.firebaseio.com",
+    "project_id": "kioxlogin1",
+    "storage_bucket": "kioxlogin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522258229650:android:700e00352022868fa9f94b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522258229650-06l2vho0ai3l4c4hacgh9ei1khh1u5u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb0KSlBHu-qUmfpK77omRrieMx8XpQGIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522258229650-06l2vho0ai3l4c4hacgh9ei1khh1u5u7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
